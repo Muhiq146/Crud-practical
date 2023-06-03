@@ -1,0 +1,11 @@
+{
+    "employee": [
+        {
+            "id": "1",
+            "name": "Muhiq",
+            "experience": "1.5",
+            "team": "A",
+            "designation": "Jr Reactjs"
+        }
+    ]
+}
